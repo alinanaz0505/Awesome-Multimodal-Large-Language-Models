@@ -126,9 +126,9 @@ How to use: (only for non-commercial use)
   - [Datasets of Multimodal Instruction Tuning](#datasets-of-multimodal-instruction-tuning)
   - [Datasets of In-Context Learning](#datasets-of-in-context-learning)
   - [Datasets of Multimodal Chain-of-Thought](#datasets-of-multimodal-chain-of-thought)
-  - [Datasets of Multimodal RLHF](#datasets-of-multimodal-rlhf)
-  - [Benchmarks for Evaluation](#benchmarks-for-evaluation)
-  - [Others](#others-1)
+  - [Datasets of Multimodal RLHF]      (#datasets-of-multimodal-rlhf)
+  - [Benchmarks for Evaluation] (#benchmarks-for-evaluation)
+  - [Others](#others-1)  
 ---
 
 # Awesome Papers
