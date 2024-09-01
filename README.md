@@ -11,7 +11,7 @@ The first comprehensive survey for Multimodal Large Language Models (MLLMs). :sp
 Welcome to add WeChat ID (wmd_ustc) to join our MLLM communication group! :star2: </div>
 
 
----
+---      
 
 
 🔥🔥🔥 **VITA: Towards Open-Source Interactive Omni Multimodal LLM**  
